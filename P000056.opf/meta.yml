@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: བློ་སྦྱོང་མཚོན་ཆ་འཁོར་ལོའི་འགྲེལ་པ་འགལ་རྐྱེན་ལམ་ཁྱེར་ཅེས་བྱ་བ་བཞུགས་སོ།།
+    །།
+  authors:
+  - རྩ་བ་མཛད་པ་པོ་། །བླ་མ་དྷརྨ་རཀྵི་ཏ།
+  - འགྲེལ་པ་མཛད་པ་པོ། ༧སྐྱབས་རྗེ་གྲུབ་དབང་སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།
+  sku: BEN-LB-009
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - yigchung
+web_metadata:
+  title:
+    en: Taking Obstacles as a Path:A Collection of Texts on Mind Training Known as
+      Wheel of Sharp Weapons
+    bo: བློ་སྦྱོང་མཚོན་ཆ་འཁོར་ལོའི་འགྲེལ་པ་འགལ་རྐྱེན་ལམ་ཁྱེར་ཅེས་བྱ་བ་བཞུགས་སོ།། །།
+  collection:
+    en: Benchen Library–  Book 9
+    bo: བེན་ཆེན་དཔེ་མཛོད་ཁང་།–  དེབ། ༩
+  author:
+    en: Authors:Kyabje Sangye Nyenpa Rinpoche,Lama Dharma Rakshita
+    bo: ༧སྐྱབས་རྗེ་སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།,བླ་མ་དྷརྨ་རཀྵི་ཏ།
+  pusblisher:
+    en: Benchen Publications
+    bo: བེན་ཆེན་སློབ་གཉེར་ཁང་།
+  sku: BEN-LB-009
+  category:
+    en: Mind Training
+    bo: བློ་སྦྱོང།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: BEN-LB-009.epub
+  description:
+    en: ''
+    bo: པོད་འདིའི་ནང་ལ་རྒྱ་གར་གྱི་གྲུབ་ཆེན་བླ་མ་དྷརྨ་རཀྵི་ཏས་མཛད་པའི་བློ་སྦྱོང་མཚོན་ཆ་འཁོར་ལོའི་འགྲེལ་པ་༧སྐྱབས་རྗེ་གྲུབ་དབང་སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེས་མཛད་པ་དེ་བཞུགས་ཡོད།
