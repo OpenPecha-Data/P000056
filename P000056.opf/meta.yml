@@ -1,16 +1,18 @@
-ebook_metadata:
+id: P000056
+initial_creation_type: ebook
+source_metadata:
   title: བློ་སྦྱོང་མཚོན་ཆ་འཁོར་ལོའི་འགྲེལ་པ་འགལ་རྐྱེན་ལམ་ཁྱེར་ཅེས་བྱ་བ་བཞུགས་སོ།།
     །།
   authors:
   - རྩ་བ་མཛད་པ་པོ་། །བླ་མ་དྷརྨ་རཀྵི་ཏ།
   - འགྲེལ་པ་མཛད་པ་པོ། ༧སྐྱབས་རྗེ་གྲུབ་དབང་སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།
-  sku: BEN-LB-009
   layers:
   - book_title
   - author
   - chapter_title
   - tsawa
   - yigchung
+  id: BEN-LB-009
 web_metadata:
   title:
     en: Taking Obstacles as a Path:A Collection of Texts on Mind Training Known as
